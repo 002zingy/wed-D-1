@@ -1,0 +1,16 @@
+.footer1 a {
+	         text-decoration:none;
+}
+
+.footer1 li:hover {
+	         background-color:black;
+			 color:white;
+			 font-size:1.2em;
+}
+.footer1 li{  
+            list-style:none;
+			padding:10px;
+			color:black;
+			text-align:left;
+			border-bottom:1px solid black;
+}

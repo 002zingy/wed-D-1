@@ -1,0 +1,7 @@
+.faculty li{
+	        list-style:none;
+			padding:10px;
+			color:black;
+			text-align:left;
+			border-bottom:4px solid green;
+}

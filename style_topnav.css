@@ -1,0 +1,23 @@
+.affix { top: 0;
+        width:100%;
+}
+.affix + .container-fluid {
+	                        padding-top:10px;
+}
+@media screen and (max-width:992px){
+	                                .header_text{text-align:center;}
+	.logo_header img{margin:auto; display:block;}
+}
+.navbar {background-color: #1e018a;}
+
+.navbar-brand {color: white !important;}
+
+.navbar-nav li a{color: #ffffff !important;}
+.navbar-nav li a:hover {
+    color: #000000 !important;
+	background-color: #ffffff !important;
+}
+.activa{
+	background-color:green !important;
+	color:white !important;	
+}
